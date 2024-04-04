@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 10 recursion", "Lab 10 recursion\Lab 10 recursion.csproj", "{9BC261D0-A824-4F9C-8D7E-3563F8213DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC261D0-A824-4F9C-8D7E-3563F8213DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC261D0-A824-4F9C-8D7E-3563F8213DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC261D0-A824-4F9C-8D7E-3563F8213DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC261D0-A824-4F9C-8D7E-3563F8213DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911A4D82-AD00-43F5-B9B9-FDB54E16A271}
+	EndGlobalSection
+EndGlobal
